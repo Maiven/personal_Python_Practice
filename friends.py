@@ -2,7 +2,7 @@
 # friends.txt를 다운받아서 같은 폴더에 넣은 다음 프로그램을 실행합니다. 
 import os, re, codecs
 #자신의 저장경로를 입력해야 합니다. 
-os.chdir(r' ')
+os.chdir(r'C:\Users\chodaeheeUniverse\Downloads\데이터분석\do-it-python-master\03')
 f = open('friends101.txt', 'r', encoding = 'utf-8')
 script101 = f.read()
 
